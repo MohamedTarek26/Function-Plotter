@@ -1,0 +1,36 @@
+/* Dark Mode Stylesheet */
+QWidget {
+    background-color: #333;
+    color: #eee;
+}
+QLineEdit, QPushButton {
+    background-color: #444;
+    color: #eee;
+    border: 1px solid #555;
+    border-radius: 3px;
+    padding: 5px;
+}
+QPushButton {
+    background-color: lightblue;
+    color: black;
+}
+QCheckBox {
+    spacing: 5px;
+}
+QCheckBox::indicator {
+    width: 20px;
+    height: 20px;
+}
+QCheckBox::indicator:unchecked {
+    border: 2px solid #555;
+    background-color: #777;
+    border-radius: 10px;
+}
+QCheckBox::indicator:unchecked:hover {
+    background-color: #666;
+}
+QCheckBox::indicator:checked {
+    border: 2px solid #555;
+    background-color: #33A5FF;
+    border-radius: 10px;
+}

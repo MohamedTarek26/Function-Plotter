@@ -1,0 +1,102 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite3
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+venv.bak/
+env.bak/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.suo
+*.ncb
+*.dsk
+*.log
+
+# PyCharm
+*.iml
+*.ipr
+*.iws
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# Matplotlib Config
+matplotlibrc
+
+# Test and Coverage
+.coverage
+*.cover
+*.log
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+*.d
+*.diff
+*.patch
+
+# Static Analysis
+.mypy_cache/
+.dmypy.json
+.pytype/
+.Python
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# PySide2 Files
+*.qrc
+*.ui
+
+# Configuration files
+*.config
+
+# Data Files
+*.csv
+*.xlsx
+*.json
+*.yaml
+
+# Log files
+*.log
+
+# Misc
+*.swp
+*.swo
+*.swn
+*.tmp
+*.bak
+*.orig
+
+# Environment files
+.env
+.env.*
+
+# Pytest cache
+.cache/
+
+.mp4
