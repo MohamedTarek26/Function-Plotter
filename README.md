@@ -28,7 +28,7 @@ The following operators are supported:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/function-plotter.git
+    git clone https://github.com/MohamedTarek26/function-plotter.git
     cd function-plotter
     ```
 
